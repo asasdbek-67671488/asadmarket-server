@@ -1,1 +1,38 @@
-
+{
+"version": 1,
+"apps": [
+{
+"downloadUrl": "https://raw.githubusercontent.com/asasdbek-67671488/main/apps/asad_browser_android3.apk"
+},
+{
+"downloadUrl": "https://raw.githubusercontent.com/asasdbek-67671488/main/apps/yutub_for_android3.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.BasicallyGames.BaldisBasicsClassic/upload.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.kedoo.talkingboobaselfie/upload.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.zhiliaoapp.musically/upload.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.zhiliaoapp.musically.go/upload.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.popcap.pvz/upload.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.outfit7.herodash/upload.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.mojang.minecraft010/upload.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.jockeholm.undertale/upload.apk"
+},
+{
+"downloadUrl": "https://orchis.w0.am/com.discord/upload.apk"
+}
+]
+}
